@@ -1,0 +1,57 @@
+
+
+.link-equipe {
+  color:white;
+
+}
+
+.card{
+  display: inline-flex;
+
+  
+}
+
+.card-body{
+  display: inline-block;
+}
+
+footer{
+	text-align: center;
+	background: #343A40;
+	padding: 40px 0;
+
+}
+
+
+footer p {
+  color:white;
+
+}
+
+footer a:hover{
+  color: green;
+}
+
+footer{
+  margin-top: -9px;
+}
+
+.img-rodape {
+  height: auto; 
+  width: auto; 
+  max-width: 200px; 
+  max-height: 200px;
+}
+
+
+.media{
+  width: 900px;
+  right: 500px;
+
+}
+
+.copyright{
+  font-size: 15px;
+	margin: 20px 0 0;
+}
+
